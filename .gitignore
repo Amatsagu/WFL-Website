@@ -3,4 +3,7 @@ scrapper/.vscode
 scrapper/dist
 scrapper/node_modules
 scrapper/output/raw
-scrapper
+scrapper/output/finished/tier_5
+scrapper/output/finished/tier_4
+scrapper/output/finished/tier_3
+scrapper/output/finished/tier_2
